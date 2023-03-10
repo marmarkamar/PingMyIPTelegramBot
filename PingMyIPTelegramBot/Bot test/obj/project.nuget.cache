@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7il4eNCMCBmSit02jhC0EwDA9IRbXjNlDkNMWPnKDu+cka5gz2QkMTz+p7PrsHGoj+ktjCvfSP3aKKkTLnfg5g==",
+  "dgSpecHash": "vKUcI0usX4dWI1M4ngoNFBtKHi+0VsGTMuDKPbt319FPF65mT7gzLu/jFGXT1U3TLH5DNU1l0/ZHi1FGVuol8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj",
+  "projectFilePath": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\t1\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Borys\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
     "C:\\Users\\Borys\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",

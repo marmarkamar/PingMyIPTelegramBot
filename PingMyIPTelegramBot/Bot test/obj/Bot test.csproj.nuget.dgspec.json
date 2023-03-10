@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj": {}
+    "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\t1\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj": {
+    "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\t1\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj",
+        "projectUniqueName": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\t1\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj",
         "projectName": "Bot test",
-        "projectPath": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj",
+        "projectPath": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\t1\\PingMyIPTelegramBot\\Bot test\\Bot test.csproj",
         "packagesPath": "C:\\Users\\Borys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\PingMyIPTelegramBot\\Bot test\\obj\\",
+        "outputPath": "C:\\Users\\Borys\\Desktop\\учьоба\\ШООМ\\t1\\PingMyIPTelegramBot\\Bot test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\vs\\vs3\\NuGetPackages"
