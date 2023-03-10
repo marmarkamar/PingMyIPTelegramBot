@@ -2,16 +2,16 @@
 using Telegram.Bot.Types;
 using Telegram.Bot.Extensions.Polling;
 using static BotTest.Service;
+using static BotTest.Constants;
 
 namespace TelegramBot
 {
     class Program
     {
-        private static string token = "5441070326:AAHYsLzF0QMYnm-6z6bS9eHPAejhG1EjeeU";
         private static TelegramBotClient client;
         static void Main(string[] args)
         {
-            client = new TelegramBotClient(token);
+            client = new TelegramBotClient(Token);
 
             var cts = new CancellationTokenSource();
             var cancellationToken = cts.Token;
@@ -26,7 +26,7 @@ namespace TelegramBot
               receiverOptions,
               cancellationToken
             );
-            Console.ReadLine();
+            Console.ReadKey();
         }
 
         public static async Task HandleUpdateAsync(ITelegramBotClient botClient, Update update, CancellationToken cancellationToken)
