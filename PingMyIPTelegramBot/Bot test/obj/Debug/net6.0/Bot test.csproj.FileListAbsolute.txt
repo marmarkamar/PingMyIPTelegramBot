@@ -1,0 +1,38 @@
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Bot test.exe
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Bot test.deps.json
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Bot test.runtimeconfig.json
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Bot test.dll
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Bot test.pdb
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.csproj.AssemblyReference.cache
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.AssemblyInfoInputs.cache
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.AssemblyInfo.cs
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.csproj.CoreCompileInputs.cache
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.csproj.CopyComplete
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.dll
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\refint\Bot test.dll
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.pdb
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\Bot test.genruntimeconfig.cache
+C:\Users\Borys\Desktop\учусь\c#\Bot test\Bot test\obj\Debug\net6.0\ref\Bot test.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Bot test.exe
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Bot test.deps.json
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Bot test.runtimeconfig.json
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Bot test.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Bot test.pdb
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\bin\Debug\net6.0\Telegram.Bot.Extensions.Polling.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.csproj.AssemblyReference.cache
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.AssemblyInfoInputs.cache
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.AssemblyInfo.cs
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.csproj.CoreCompileInputs.cache
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.csproj.CopyComplete
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\refint\Bot test.dll
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.pdb
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\Bot test.genruntimeconfig.cache
+C:\Users\Borys\Desktop\учьоба\ШООМ\PingMyIPTelegramBot\Bot test\obj\Debug\net6.0\ref\Bot test.dll
